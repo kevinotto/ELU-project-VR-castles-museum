@@ -38,11 +38,15 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   m_IndirectSpecularColor: {r: 0.59937525, g: 0.5997512, b: 0.59948856, a: 1}
 =======
   m_IndirectSpecularColor: {r: 0.16810226, g: 0.19891423, b: 0.23094435, a: 1}
 >>>>>>> Stashed changes
+=======
+  m_IndirectSpecularColor: {r: 0.59937525, g: 0.5997512, b: 0.59948856, a: 1}
+>>>>>>> parent of 7e2bd28 (Merge pull request #1 from kevinotto/Castles-import)
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -2248,6 +2252,7 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 945631406}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 --- !u!1 &179428613
@@ -10307,6 +10312,8 @@ Mesh:
     size: 0
     path: 
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 7e2bd28 (Merge pull request #1 from kevinotto/Castles-import)
 --- !u!1 &541096545
 GameObject:
   m_ObjectHideFlags: 0
@@ -16238,6 +16245,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+<<<<<<< HEAD
     serializedVersion: 2
     m_TransformParent: {fileID: 0}
     m_Modifications:
@@ -16565,6 +16573,8 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+=======
+>>>>>>> parent of 7e2bd28 (Merge pull request #1 from kevinotto/Castles-import)
     m_TransformParent: {fileID: 541096546}
     m_Modifications:
     - target: {fileID: 3475118261464492563, guid: 1f4d373a613d0466fbd8849470265852,
@@ -21150,6 +21160,7 @@ MonoBehaviour:
   m_TrackingType: 0
   m_UpdateType: 0
   m_UseRelativeTransform: 0
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 --- !u!1 &1747755100
@@ -23289,10 +23300,14 @@ BoxCollider:
   m_Size: {x: 0.06083258, y: 0.5744921, z: 1}
   m_Center: {x: 2.395466, y: 2.0441308, z: 0}
 --- !u!1001 &1918513041
+=======
+--- !u!1001 &1934505122
+>>>>>>> parent of 7e2bd28 (Merge pull request #1 from kevinotto/Castles-import)
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+<<<<<<< HEAD
     serializedVersion: 2
     m_TransformParent: {fileID: 0}
     m_Modifications:
@@ -23380,6 +23395,8 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+=======
+>>>>>>> parent of 7e2bd28 (Merge pull request #1 from kevinotto/Castles-import)
     m_TransformParent: {fileID: 1728657556}
     m_Modifications:
     - target: {fileID: 8270855663187062767, guid: 5b158b94c373d4b4f9e98cdb92789343,
@@ -23455,6 +23472,7 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1934505122}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 --- !u!43 &1945047642
@@ -24247,6 +24265,8 @@ Mesh:
     size: 0
     path: 
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 7e2bd28 (Merge pull request #1 from kevinotto/Castles-import)
 --- !u!1001 &2038249430
 PrefabInstance:
   m_ObjectHideFlags: 0
