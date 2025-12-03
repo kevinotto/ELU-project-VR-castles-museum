@@ -41,6 +41,7 @@ RenderSettings:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   m_IndirectSpecularColor: {r: 0.59937525, g: 0.5997512, b: 0.59948856, a: 1}
 =======
@@ -52,6 +53,9 @@ RenderSettings:
 =======
   m_IndirectSpecularColor: {r: 0.59937525, g: 0.5997512, b: 0.59948856, a: 1}
 >>>>>>> parent of 7e2bd28 (Merge pull request #1 from kevinotto/Castles-import)
+=======
+  m_IndirectSpecularColor: {r: 0.59937525, g: 0.5997512, b: 0.59948856, a: 1}
+>>>>>>> parent of cab1ad5 (Initial environment)
 =======
   m_IndirectSpecularColor: {r: 0.59937525, g: 0.5997512, b: 0.59948856, a: 1}
 >>>>>>> parent of cab1ad5 (Initial environment)
@@ -201,6 +205,7 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 945631406}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -8269,6 +8274,8 @@ Mesh:
 >>>>>>> parent of 7e2bd28 (Merge pull request #1 from kevinotto/Castles-import)
 =======
 >>>>>>> parent of cab1ad5 (Initial environment)
+=======
+>>>>>>> parent of cab1ad5 (Initial environment)
 --- !u!1 &541096545
 GameObject:
   m_ObjectHideFlags: 0
@@ -8599,6 +8606,7 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 842422644}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1 &842917649
 GameObject:
@@ -12935,6 +12943,8 @@ BoxCollider:
   m_Center: {x: 2.395466, y: 2.0441308, z: 0}
 =======
 >>>>>>> parent of cab1ad5 (Initial environment)
+=======
+>>>>>>> parent of cab1ad5 (Initial environment)
 --- !u!1001 &945631406
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13260,6 +13270,7 @@ MonoBehaviour:
   m_TrackingType: 0
   m_UpdateType: 0
   m_UseRelativeTransform: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -15496,6 +15507,8 @@ PrefabInstance:
 >>>>>>> parent of 7e2bd28 (Merge pull request #1 from kevinotto/Castles-import)
 =======
 >>>>>>> parent of cab1ad5 (Initial environment)
+=======
+>>>>>>> parent of cab1ad5 (Initial environment)
 --- !u!1001 &1934505122
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15581,6 +15594,7 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1934505122}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -16380,6 +16394,8 @@ Mesh:
 >>>>>>> parent of 7e2bd28 (Merge pull request #1 from kevinotto/Castles-import)
 =======
 >>>>>>> parent of 7e2bd28 (Merge pull request #1 from kevinotto/Castles-import)
+=======
+>>>>>>> parent of cab1ad5 (Initial environment)
 =======
 >>>>>>> parent of cab1ad5 (Initial environment)
 --- !u!1001 &2038249430
